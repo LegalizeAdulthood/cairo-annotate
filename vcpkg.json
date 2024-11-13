@@ -5,6 +5,10 @@
   "dependencies": [
     "cairomm",
     "openimageio",
-    "gtest"
+    "gtest",
+    {
+      "name": "pkgconf",
+      "platform": "windows"
+    }
   ]
 }
